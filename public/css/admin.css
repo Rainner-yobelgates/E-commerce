@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+
+/* Product */
+.title{
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.notif{
+    width: 15px;
+    height: 15px;
+    background-color: #dc3545;
+    border-radius: 50%;
+}
